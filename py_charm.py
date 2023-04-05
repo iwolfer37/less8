@@ -1,5 +1,5 @@
 #Дані
 name = "Іван"
 surname = "Бобильов"
-nickname = "iWolfer"
+nicknae = "iWolfer"
 print(surname, name, nickname)
