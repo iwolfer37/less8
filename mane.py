@@ -9,7 +9,7 @@ def mane_function(data_dict, file_name):
 create_file(shoping_list, 'shoping_list.txt')
 
 
-#Наша нова функція
+#Наша нова функція c
 def test_function(file_name)
     data_dict = {}
         with open(file_name, 'r') as f:
