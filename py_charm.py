@@ -1,4 +1,4 @@
-#Дані
+#Дані тест
 name = "Іван"
 surname = "Бобильов"
 nickname = "iWolfer37"
